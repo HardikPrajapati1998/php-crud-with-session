@@ -4,7 +4,7 @@ login and registration form in php with database
 
 # start project
 
-### opne index.html
+### opne index.php
 
 ### Registration
 ![Alt text](./index.PNG "Optional Title")
